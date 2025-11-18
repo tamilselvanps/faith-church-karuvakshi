@@ -1,0 +1,14 @@
+{
+  "title": "Church Website",
+  "home": "Home",
+  "events": "Events",
+  "admin": "Admin",
+  "login": "Login",
+  "logout": "Logout",
+  "add_event": "Add Event",
+  "event_title": "Event Title",
+  "event_date": "Event Date",
+  "submit": "Submit",
+  "gallery": "Gallery",
+  "welcome": "Welcome to our church"
+}

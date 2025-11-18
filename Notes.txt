@@ -1,0 +1,23 @@
+create a react based website for church using react and react bootstrap for component and add admin panel route to add the events at run time and enable jws authentication for route user, add tamil language support and download entire application in zip file
+
+Quick notes:
+
+    Frontend dev server: cd frontend && npm install && npm run dev
+
+    Server: cd server && npm install && npm start (runs on port 4000)
+
+    Default admin creds: username: admin password: admin123
+
+    JWT secret: set JWT_SECRET in server env for production
+
+    Frontend src/api.js is set to http://localhost:4000 — change if your server runs elsewhere
+
+Want me to:
+
+    Replace in-memory storage with Firebase/Supabase?
+
+    Add file upload for gallery images (S3 / Supabase)?
+
+    Harden auth (refresh tokens, role management)?
+
+    Swap React-Bootstrap to shadcn/ui instead?
