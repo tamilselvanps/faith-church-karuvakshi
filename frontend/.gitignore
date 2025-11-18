@@ -1,0 +1,2 @@
+# Ignore Node.js dependencies for frontend
+node_modules/
